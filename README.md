@@ -2,6 +2,8 @@
 
 *Authors: Wo Long, Victor Xiao (GR5293 Final Project)*
 
+## ❗️❗️❗️ Some Jupyter notebooks may not render properly on GitHub. For best results, please download the files and view them locally using Jupyter Notebook or JupyterLab.
+
 ## 📋 Overview
 
 This project integrates Large Language Models (LLMs), Reinforcement Learning (RL), and financial trading strategies to create an advanced portfolio allocation system. We use Thomson Reuters news data to generate sentiment signals, which are then combined with technical analysis to inform RL-based trading decisions.
